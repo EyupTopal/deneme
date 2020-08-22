@@ -1,0 +1,9 @@
+package AbstractClass;
+
+public class ManGameCalculator extends GameCalculator {
+    @Override
+    public void hesapla(){
+        System.out.println (" Man:  puaniniz ; 90 ");
+
+    }
+}
